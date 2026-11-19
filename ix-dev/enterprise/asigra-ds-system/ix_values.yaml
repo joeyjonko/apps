@@ -10,7 +10,7 @@ images:
     tag: "16.16-bookworm@sha256:a49f7438ba03589f9b1ca062f2da82e899b48ea1dc50d2449fa09a70be83ebca"
   haproxy_image:
     repository: haproxy
-    tag: "3.4.7@sha256:f6d2ee87b47192d9cc8c22e88fef405122ff339859644883edc2a7d1827f87b3"
+    tag: "3.4.8@sha256:ae3c7962a174bd8a793e91403b7ca63bb2b355e311a1aa5d90fac353bbfec294"
   postgres_upgrade_image:
     repository: ghcr.io/truenas/containers/postgres-upgrade
     tag: "1.2.27@sha256:fff3756182eaf444074d49ccb3fc55548c4f1d48b07b145512c46f9db3e9fc11"
